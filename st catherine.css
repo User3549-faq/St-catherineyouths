@@ -1,0 +1,52 @@
+body{
+	background-image:url("Machakos trip.jpg");
+	background-position:center;
+	background-repeat:no-repeat;
+	
+	
+}
+.class{
+	background-image:url("invoice background.avif");
+	background-position:center;
+	text-align:center;
+	background-repeat:repeat-y;
+	
+}
+ h1{
+	 background-color:skyblue;
+	 text-align:center;
+	 font-style:underline;
+ }
+ 
+ table{
+	 margin:auto;
+ }
+ 
+ img{
+	size:100px;
+ width:200px;	
+ }
+ 
+ .logo{
+	 font-family:'lemon milk','lemom milk bold';
+	 color:red;
+ }
+ 
+ .logodiv:hover{
+	 border:5px dotted black;
+	 width:200px;
+	 margin:auto;
+ }
+ 
+ ul{
+	  font-style:italic;
+	  font-style:underline;
+	  
+  }
+  
+form{
+	background-color:skyblue;
+	width:700px;
+	margin:auto;
+	size:700px;
+}
